@@ -1,0 +1,4 @@
+/home/dariy/school/OS/18.11.2024_Practice/processes.c
+/home/dariy/school/OS/18.11.2024_Practice/exer.c
+/home/dariy/school/OS/Assignment_1/8_Dariy_Topuzov_12.c
+/home/dariy/school/OS/Assignment_1/8_Dariy_Topuzov_11.c
