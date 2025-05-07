@@ -1,0 +1,14 @@
+Compiling main.c...
+src/main.c: In function ‘main’:
+src/main.c:3:35: error: ‘asd’ undeclared (first use in this function)
+    3 | int main(int argc, char* argv[]) {asd
+      |                                   ^~~
+src/main.c:3:35: note: each undeclared identifier is reported only once for each function it appears in
+src/main.c:3:38: error: expected ‘;’ before ‘if’
+    3 | int main(int argc, char* argv[]) {asd
+      |                                      ^
+      |                                      ;
+    4 |     if (argc < 3) return 1;
+      |     ~~                                
+Compilation failed
+Timestamp: Mon Apr 14 14:09:48 EEST 2025
