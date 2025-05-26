@@ -3,6 +3,7 @@
         "qbit.h": "c",
         "smart_allocation.h": "c",
         "errno.h": "c",
-        "features.h": "c"
+        "features.h": "c",
+        "in.h": "c"
     }
 }
